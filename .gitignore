@@ -1,0 +1,26 @@
+# 二进制与产物
+*.apk
+*.apks
+*.dex
+*.so
+*.jar
+*.bin
+*.dat
+*.pyc
+__pycache__/
+# 抓包/日志/截图
+*.log
+*.png
+*.jpg
+*.resp
+*.pkl
+# 密钥
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+# 本机路径与临时文件
+.tmp/
+tmp/
+out/
